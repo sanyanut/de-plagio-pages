@@ -749,7 +749,7 @@ a {
     display: flex;
     justify-content: center;
     width: 100%;
-    background-image: url("../../assets/svg/main-bg.svg");
+    background-image: url("../assets/svg/main-bg.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100% 90%;
